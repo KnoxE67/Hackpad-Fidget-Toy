@@ -12,7 +12,7 @@ This project requires a Seeed XIAO RP2040,
 and a top and bottom 3d printed case.
 
 [3D model of my macropad](pictures/full.png)
-Knox's\Hackpad\:Fidget\Toy\V1\
+
 ## Pictures
 
 | Schematic | PCB | Case |
