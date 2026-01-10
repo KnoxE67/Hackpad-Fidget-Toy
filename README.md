@@ -10,10 +10,12 @@ This project requires a Seeed XIAO RP2040,
 4 M3x16mm screws, 
 4 M3x5mx4mm heatset inserts,
 and a top and bottom 3d printed case.
-<img width="804" height="823" alt="Screenshot 2026-01-10 at 12 10 31 PM" src="https://github.com/user-attachments/assets/cba39cc0-8f74-4cd3-a58e-66fb8aeb9294" />
+
+[3D model of my macropad](pictures/full.png)
 
 ## Pictures
 
 | Schematic | PCB | Case |
 |:-:|:-:|:-:|
 | ![alt text](pictures/schematic.png) | ![PCB, made in KiCad](pictures/PCB.png) | ![alt text](pictures/case.png) |
+
