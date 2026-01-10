@@ -11,7 +11,7 @@ This project requires a Seeed XIAO RP2040,
 4 M3x5mx4mm heatset inserts,
 and a top and bottom 3d printed case.
 
-[3D model of my macropad](pictures/full.png)
+[3D model of my macropad](Knox\'s\ Hackpad\:Fidget\ Toy\ V1\ /pictures/full.png)
 
 ## Pictures
 
