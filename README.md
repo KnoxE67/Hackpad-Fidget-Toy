@@ -16,4 +16,4 @@ and a top and bottom 3d printed case.
 
 | Schematic | PCB | Case |
 |:-:|:-:|:-:|
-| ![alt text](<img width="770" height="479" alt="Screenshot 2026-01-10 at 12 11 40 PM" src="https://github.com/user-attachments/assets/2630d8dd-a24c-49b7-b4b1-c7bcc051f14a" />) | ![PCB, made in KiCad](<imgwidth="588" height="699" alt="Screenshot 2026-01-10 at 12 10 59 PM" src="https://github.com/user-attachments/assets/8a0c09d2-03de-4cc7-b09c-d184ec5f8a5f" />) | ![alt text](<img width="1197" height="691"alt="Screenshot 2026-01-10 at 12 48 48 PM" src="https://github.com/user-attachments/assets/d41f7544-7adb-4b43-8fea-3ecf8126b41b" />) |
+| ![alt text](pictures/schematic.png) | ![PCB, made in KiCad](pictures/PCB.png) | ![alt text](pictures/case.png) |
