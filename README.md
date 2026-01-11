@@ -1,6 +1,4 @@
-Hi Reader(s),
-I used KiCAD, Fusion360, and once I get the parts, VSCode.
-I spent about 14 Hours, across 2 days (I locked in).
+# MacroPad Overview
 
 This project requires a Seeed XIAO RP2040, 
 6 MX-Style switches, 
@@ -19,3 +17,14 @@ and a top and bottom 3d printed case.
 |:-:|:-:|:-:|
 | ![alt text](pictures/schematic.png) | ![PCB, made in KiCad](pictures/PCB.png) | ![alt text](pictures/case.png) |
 
+## Bill of Materials (BOM)
+
+- 1x XIAO RP2040
+- 6x MX-like switches
+- 6x DSA keycaps
+- 6x through-hole 1N4148 diodes
+- 1x SK6812 MINI-E LED
+- 1x 0.91" 128x32 OLED display
+- 1x EC11E rotary encoder
+- 1x case, made of 2 printed parts ([Top.step](pictures/top.step) and [Bottom.step](pictures/bottom.step) )
+- 4x M3x16mm screws
