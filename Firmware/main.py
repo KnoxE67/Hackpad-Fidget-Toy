@@ -21,8 +21,8 @@ encoder_handler.divisor = 4
 i2c_bus = board.I2C() 
 display_driver = SSD1306(i2c=i2c_bus, device_address=0x3C)
 
-header_text = TextEntry(x=0, y=0, text='HACKPAD-FIDGET')
-status_text = TextEntry(x=0, y=10, text='MODE: MACRO')
+header_text = TextEntry(x=0, y=0, text='Knoxs-Hackpad-Fidget')
+status_text = TextEntry(x=0, y=10, text='MODE: ACRO')
 
 # Volume Bar: x=0, y=22, width=128, height=8
 volume_bar = BarEntry(x=0, y=22, width=128, height=8, value=50) 
