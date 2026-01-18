@@ -24,7 +24,7 @@ display = adafruit_displayio_ssd1306.SSD1306(display_bus, width=128, height=32)
 splash = displayio.Group()
 display.root_group = splash
 
-header_lbl = label.Label(terminalio.FONT, text="Knoxs-Hackpad", x=0, y=5)
+header_lbl = label.Label(terminalio.FONT, text="Knox's Hackpad", x=0, y=5)
 status_lbl = label.Label(terminalio.FONT, text="MODE: ACRO", x=0, y=16)
 vol_lbl = label.Label(terminalio.FONT, text="VOL: [|||||-----] 50%", x=0, y=27)
 
